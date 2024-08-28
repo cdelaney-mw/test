@@ -4,6 +4,8 @@ The [Worker architecture](Worker-cookbook) provides a great way to compute long-
 However, for quicker computations, a simpler server that receives a request, runs a computation, and immediately returns the results as a response can save time and complexity.
 This is the idea behind the _Artifact Processor service_.
 
+# Test comment
+
 ## Table of Contents
 
 - [Overview](#overview)
