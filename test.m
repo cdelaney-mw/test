@@ -1,3 +1,3 @@
 % issue for Code Analyzer to find
-x3 = 24;
+8x3 = 24;
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaReallyLongVariableName = 12;
