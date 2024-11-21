@@ -1,3 +1,4 @@
 % issues for Code Analyzer to find
 8x3 = 24;
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaReallyLongVariableName = 12;
+% test update
